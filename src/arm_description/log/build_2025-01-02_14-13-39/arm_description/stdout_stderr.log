@@ -1,0 +1,30 @@
+running egg_info
+creating build/arm_description/arm_description.egg-info
+writing build/arm_description/arm_description.egg-info/PKG-INFO
+writing dependency_links to build/arm_description/arm_description.egg-info/dependency_links.txt
+writing entry points to build/arm_description/arm_description.egg-info/entry_points.txt
+writing requirements to build/arm_description/arm_description.egg-info/requires.txt
+writing top-level names to build/arm_description/arm_description.egg-info/top_level.txt
+writing manifest file 'build/arm_description/arm_description.egg-info/SOURCES.txt'
+reading manifest file 'build/arm_description/arm_description.egg-info/SOURCES.txt'
+writing manifest file 'build/arm_description/arm_description.egg-info/SOURCES.txt'
+running build
+running install
+running install_data
+copying package.xml -> /home/tomer/arm_ws/src/arm_description/install/arm_description/share/arm_description
+creating /home/tomer/arm_ws/src/arm_description/install/arm_description/share/arm_description/urdf
+copying urdf/Arm_description.urdf -> /home/tomer/arm_ws/src/arm_description/install/arm_description/share/arm_description/urdf
+creating /home/tomer/arm_ws/src/arm_description/install/arm_description/share/arm_description/meshes
+copying meshes/base_link.STL -> /home/tomer/arm_ws/src/arm_description/install/arm_description/share/arm_description/meshes
+copying meshes/Endeffector_1.STL -> /home/tomer/arm_ws/src/arm_description/install/arm_description/share/arm_description/meshes
+copying meshes/Endeffector_2.STL -> /home/tomer/arm_ws/src/arm_description/install/arm_description/share/arm_description/meshes
+copying meshes/Link_1.STL -> /home/tomer/arm_ws/src/arm_description/install/arm_description/share/arm_description/meshes
+copying meshes/Link_2.STL -> /home/tomer/arm_ws/src/arm_description/install/arm_description/share/arm_description/meshes
+copying meshes/Link_3.STL -> /home/tomer/arm_ws/src/arm_description/install/arm_description/share/arm_description/meshes
+copying meshes/Link_4.STL -> /home/tomer/arm_ws/src/arm_description/install/arm_description/share/arm_description/meshes
+copying meshes/Link_5.STL -> /home/tomer/arm_ws/src/arm_description/install/arm_description/share/arm_description/meshes
+copying meshes/Link_6.STL -> /home/tomer/arm_ws/src/arm_description/install/arm_description/share/arm_description/meshes
+running install_egg_info
+Copying build/arm_description/arm_description.egg-info to /home/tomer/arm_ws/src/arm_description/install/arm_description/lib/python3.10/site-packages/arm_description-0.0.0-py3.10.egg-info
+running install_scripts
+writing list of installed files to '/home/tomer/arm_ws/src/arm_description/build/arm_description/install.log'
